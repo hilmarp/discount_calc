@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Discount Calculator</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="full_price">Full Price</string>
+    <string name="discount_amount">Discount</string>
+    <string name="price_with_discount">Price with Discount</string>
+
+</resources>
